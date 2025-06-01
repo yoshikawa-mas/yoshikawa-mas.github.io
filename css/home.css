@@ -1,0 +1,66 @@
+body{
+/*	background-color:#FAEBD7 ;*/
+/*	background-color:#FFFACD ;  Lemonchiffon */
+/*	background-color:#FFFFE0 ;  Lightyellow */
+	background-color:#FAFAD2 ; /* Lightgoldenrodyellow */
+/*	background-color:#FAFAD2 ;*/
+/*	background-color:#FFF8DC ;  Cornsilk */
+	margin-top:10pt ;
+	margin-left:10pt ;
+	margin-right:10pt ;
+	}
+
+div.langswitch{
+	text-align:right ;
+	}
+
+img.face{
+	position:relative ;
+        margin-left:10pt ;
+	}
+
+h2.em{
+	color:#F00 ;
+/*	color: navy; */
+/*	color: slategray; */
+/*	color: darkslategray; */
+	}
+
+h3.margin{
+	margin-left: 22px ;
+	margin-bottom: -1px ;
+	}
+
+span.date{
+	position:absolute ;
+	left: 75px ;
+	}
+
+span.event{
+	position:absolute ;
+	left: 150px ;
+	}
+	
+span.c1stcolumn{
+	position:absolute ;
+	left: 70px ;
+	}
+
+span.c2ndcolumn{
+	position:absolute ;
+	left: 180px ;
+	}
+
+span.award{
+	color:#F00 ;
+	}
+
+span.name{
+	position:absolute ;
+	left: 150px ;
+	}
+
+span.title{
+	position:absolute ;
+	left: 150px ;
+	}
